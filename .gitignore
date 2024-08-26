@@ -1,3 +1,6 @@
+# idx files
+.idx/
+
 # Logs
 logs
 *.log
